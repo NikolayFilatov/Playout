@@ -10,7 +10,7 @@ Installation
 and install module.
 
 2. Create configuration file in autoload directory in your project with content:
-'module_layouts' => [
+    'module_layouts' => [
         'Application' => 'layout/application',
-        'MyModule' => 'layout/mymodule',
-    ],
+        'MyModule' => 'layout/mymodule'
+    ]
