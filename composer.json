@@ -3,7 +3,7 @@
     "description":  "Simple set layouts to modules",
     "type":         "library",
     "license":      "BSD-3-Clause",
-//    "homepage":     "https://github.com/neiron486k/Puser.git",
+    "homepage":     "https://github.com/neiron486k/Playout.git",
     "keywords": ["zf2", "layout", "modules"],
     "authors": [
         {
